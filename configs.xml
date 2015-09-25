@@ -7,8 +7,8 @@
         <version>1.0.0</version>
         <keywords>centreon, widget, application, availability, bam, monitoring</keywords>
         <screenshot></screenshot>
-        <thumbnail>./widgets/cbi-ba-availability-month/resources/centreon-logo.png</thumbnail>
-        <url>./widgets/cbi-ba-availability-month/index.php</url>
+        <thumbnail>./widgets/reporting-ba-availability-alerts-month/resources/centreon-logo.png</thumbnail>
+        <url>./widgets/reporting-ba-availability-alerts-month/index.php</url>
         <autoRefresh>10</autoRefresh>
         <preferences>        	
         	<preference label="Application" name="ba_name" defaultValue="Mail App." type="host" header="Resource"/>
